@@ -34,3 +34,4 @@ https://github.com/wmanley/gitolite-backup
 
 https://github.com/y-tsuzaki/gitolite-backup/commit/e2a652a0d7945e7f7c07e761c4e43f974bb1650f
 
+実行した日付が保存されるため、同日に複数回実行すると終了ステータスが１となるので注意すること。
