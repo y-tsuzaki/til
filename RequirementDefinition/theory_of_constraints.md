@@ -12,5 +12,7 @@
 ## 参考
 
 https://ja.wikipedia.org/wiki/%E5%88%B6%E7%B4%84%E6%9D%A1%E4%BB%B6%E3%81%AE%E7%90%86%E8%AB%96
+
 http://www.goal-consulting.com/solution/toc.html
+
 https://japan-toc-association.org/toc/basic_concept
