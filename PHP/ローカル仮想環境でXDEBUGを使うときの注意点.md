@@ -4,6 +4,7 @@
 
 ## 構成
 
+Vagrant x Apache x PHP(XDEBUG）
 ```
 ホストマシン （ブラウザ
 ↓
