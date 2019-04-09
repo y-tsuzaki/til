@@ -1,3 +1,14 @@
+
+## トラブルシュート 
+
+```
+C:/HashiCorp/Vagrant/embedded/gems/2.0.4/gems/vagrant-2.0.4/lib/vagrant/util/io.rb:32:in `encode': "\x87\xE3"
+```
+
+https://qiita.com/mokuo/items/fb18713c4f0a19d9c48e
+
+## トラブルシュート vagrant sshでPermission denied
+
 - 環境　
   - ホスト Windows10
   - ゲスト Centos/7
